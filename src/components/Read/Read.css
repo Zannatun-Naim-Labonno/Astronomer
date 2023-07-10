@@ -1,0 +1,164 @@
+
+.me{
+    position: relative;
+    width: 360px;
+    height: 750px;
+    
+    background: #000116;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+
+.them{
+    position: absolute;
+    width: 148px;
+    height: 152px;
+    left: 121px;
+    top: 170px;
+    
+    
+    border-radius: 29px;
+}
+.cool{
+    position: absolute;
+width: 316px;
+height: 57px;
+left: 18px;
+top: 476px;
+
+background: #C9D3F4;
+border-radius: 30px;
+
+
+
+}
+.you{
+    position: absolute;
+    left: 10px;
+right: 10px;
+top: 5px;
+bottom: 29.16%;
+
+}
+.ren{
+    position: absolute;
+    width: 182px;
+    height: 27px;
+    left: 68px;
+    top: 15px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+}
+.poor{
+    position: absolute;
+width: 316px;
+height: 57px;
+left: 18px;
+top: 559px;
+
+background: #C9D3F4;
+border-radius: 30px;
+}
+.rich{
+    position: absolute;
+left: 10px;
+right: 10px;
+top: 15px;
+bottom: 29.16%;
+}
+.op{
+    position: absolute;
+width: 176px;
+height: 28px;
+left: 68px;
+top: 15px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+}
+.lp{
+    position: absolute;
+    width: 182px;
+    height: 53px;
+    left:95px;
+    top: 336px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 57px;
+    
+    color: #F5F5F5;
+    
+
+
+}
+.btn{
+    position: absolute;
+    width: 182px;
+    height: 37px;
+    left: 10px;
+    top: 0px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    
+    color: #000000;
+
+}
+.btnbtn2{
+    position: absolute;
+    width: 316px;
+    height: 57px;
+    left: -68px;
+    top: -15px;
+    border-radius: 30px;
+
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 57px;
+
+color: #000000;
+
+background-color:#C9D3F4 ;
+}
+
+.btnbtn3{
+    position: absolute;
+    width: 316px;
+    height: 57px;
+    left: -68px;
+    top: -15px;
+    border-radius: 30px;
+
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 57px;
+
+color: #000000;
+
+background-color:#C9D3F4 ;
+}

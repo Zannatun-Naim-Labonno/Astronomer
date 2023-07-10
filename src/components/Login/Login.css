@@ -1,0 +1,144 @@
+.cl{
+    position: relative;
+width: 360px;
+height: 750px;
+
+background: #000116;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+margin-left: 800px;
+    margin-top: 100px;
+}
+
+
+.ti{
+    position: absolute;
+    width: 100px;
+    height: 96px;
+    left: 147px;
+    top: 153px;
+}
+.label5{
+    position: absolute;
+    width: 31px;
+    height: 38px;
+    left: 15px;
+    top: 361px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.input10{
+    position: absolute;
+    width: 230px;
+    height: 47px;
+    left: 120px;
+    top: 356px;
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    
+    
+    background:4px solid 4px solid #C9D3F4 ;
+    border:#00011A ;
+    border-radius: 25px;
+}
+.submit{
+    position: absolute;
+width: 316px;
+height: 57px;
+left: 22px;
+top: 633px;
+
+background: #C9D3F4;
+border-radius: 30px;
+}
+.label6{
+    position: absolute;
+width: 142px;
+height: 44px;
+left: 15px;
+top: 433px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+.input11{
+    position: absolute;
+width: 230px;
+height: 47px;
+left: 120px;
+top: 421px;
+font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    
+    background:4px solid 4px solid #C9D3F4 ;
+    border:#00011A ;
+    border-radius: 25px;
+}
+.input12{
+    position: absolute;
+    width: 230px;
+    height: 47px;
+    left: 120px;
+    top: 491px;
+    font-family: 'Kalpurush';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        
+        background:4px solid #C9D3F4 ;
+        border:#00011A ;
+        border-radius: 25px;
+}
+
+.label7{
+    position: absolute;
+    width: 81px;
+    height: 38px;
+    left: 10px;
+    top: 496px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+    
+
+}
+
+.label0{
+    position: absolute;
+width: 164px;
+height: 47px;
+left: 73px;
+top: 3px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 57px;
+
+color: #000000;
+}

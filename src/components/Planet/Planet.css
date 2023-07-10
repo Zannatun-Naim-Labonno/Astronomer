@@ -1,0 +1,101 @@
+
+
+
+.Photo{
+    position: relative;
+width: 360px;
+height: 750px;
+
+background: #C9D3F4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+margin-left: 800px;
+    margin-top: 100px;
+}
+
+.phead1{
+    position: absolute;
+width: 50px;
+height: 24px;
+left: 23px;
+top: 19px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+color: #000000;
+font-family: 'Kalpurush', sans-serif;
+
+}
+
+.planet1{
+    position: absolute;
+width: 129px;
+height: 136px;
+left: 231px;
+top: 121px;
+
+}
+.ptext1{
+    position: absolute;
+width: 209px;
+height: 320px;
+left: 13px;
+top: 67px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+
+color: #000000;
+font-family: 'Kalpurush', sans-serif;
+
+}
+
+.phead2{
+    
+position: absolute;
+width: 259px;
+height: 32px;
+left: 180px;
+top: 411px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+
+/* identical to box height */
+
+
+color: #000000;
+}
+.planet2{
+    position: absolute;
+width: 129px;
+height: 137px;
+left: 0px;
+top: 499px;
+}
+
+.ptext2{
+    position: absolute;
+    width: 180px;
+    height: 247px;
+    left: 167px;
+    top: 454px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+    
+    color: #000000;  
+   
+}

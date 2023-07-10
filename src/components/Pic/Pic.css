@@ -1,0 +1,300 @@
+
+.gallary{
+    position: relative;
+    width: 360px;
+    height: 750px;
+    
+    background: #C9D3F4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-left: 800px;
+        margin-top: 100px;
+}
+.sob{
+    position: absolute;
+width: 28px;
+height: 28px;
+left: 23px;
+top: 0px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+color: rgba(0, 0, 0, 0.58);
+font-family: 'Kalpurush', sans-serif;
+
+}
+
+.sobi{
+    position: absolute;
+width: 25px;
+height: 32px;
+left: 25px;
+top: 0px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+
+color: rgba(0, 0, 0, 0.58);
+
+}
+
+.vid{
+    position: absolute;
+width: 46px;
+height: 32px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+left: 15px;
+
+color: rgba(0, 0, 0, 0.58);
+
+}
+
+.f1{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 76px;
+    height: 28px;
+    left: 33px;
+    top: 33px;
+    background: #C9D3F4;
+    border: 1.5px solid #070C8E;
+    border-radius: 5px;
+}
+
+.f1:hover{
+    
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+.f2{
+    
+box-sizing: border-box;
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: 142px;
+top: 33px;
+
+background: #C9D3F4;
+border: 1.5px solid #070C8E;
+border-radius: 5px;
+}
+.f2:hover{
+    
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+.f3{
+    box-sizing: border-box;
+
+position: absolute;
+width: 76px;
+height: 28px;
+left: 251px;
+top: 33px;
+
+background: #C9D3F4;
+border: 1.5px solid #070C8E;
+border-radius: 5px;
+}
+.f3:hover{
+    
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+.val1{
+ 
+    position: absolute;
+    width: 300px;
+    height: 164px;
+    left: 33px;
+    top: 128px;
+
+    border-radius: 10px;
+}
+.val2{
+    position: absolute;
+    width: 300px;
+    height: 164px;
+    left: 33px;
+    top: 333px;
+    
+
+    border-radius: 10px;
+}
+.val3{
+    position: absolute;
+    width: 300px;
+    height: 164px;
+    left: 33px;
+    top: 538px;
+    
+    
+    border-radius: 10px;
+}
+
+
+.galt1{position: absolute;
+    width: 18px;
+    height: 25px;
+    left: 30px;
+    top: 263px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    
+    color: #000000;
+    }
+
+    .galt2{
+        position: absolute;
+width: 34px;
+height: 25px;
+left: 205px;
+top: 263px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+color: #000000;
+
+    }
+ .galt3{
+    position: absolute;
+width: 42px;
+height: 25px;
+left: 30px;
+top: 478px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+color: #000000;
+
+ }
+
+ .galt4{
+    position: absolute;
+width: 45px;
+height: 25px;
+left: 205px;
+top: 478px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+color: #000000;
+
+ }
+
+ .galt5{
+    position: absolute;
+    width: 46px;
+    height: 32px;
+    left: 15px;
+    top: 518px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+
+
+color: #000000;
+
+ }
+
+ .gal6{position: absolute;
+    width: 297px;
+    height: 161px;
+    left: 30px;
+    top: 556px;
+    border-radius: 10px;}
+
+.pic1{
+    position: absolute;
+width: 156px;
+height: 32px;
+left: 33px;
+top: 81px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+}
+
+.pic2{
+    position: absolute;
+width: 160px;
+height: 24px;
+left: 33px;
+top: 301px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #000000;
+
+}
+.pic3{
+    position: absolute;
+    width: 200px;
+    height: 29px;
+    left: 33px;
+    top: 503px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    
+    
+    color: #000000;
+    
+}
+

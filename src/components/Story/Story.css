@@ -1,0 +1,285 @@
+.k {
+    position: relative;
+    width: 360px;
+    height: 750px;
+    
+    background: #C9D3F4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+    margin-left: 800px;
+        margin-top: 100px;
+
+}
+
+.sf1{
+    position: absolute;
+width: 139px;
+height: 130px;
+left: 20px;
+top: 74px;
+border-radius: 10px;
+}
+
+.sf2{
+    
+position: absolute;
+width: 139px;
+height: 130px;
+left: 207px;
+top: 305px;
+border-radius: 10px;
+}
+.sf3{
+    position: absolute;
+width: 139px;
+height: 130px;
+left: 20px;
+top: 508px;
+border-radius: 10px;
+}
+.sf{
+    position: absolute;
+width: 274px;
+height: 42px;
+left: 59px;
+top: 13px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+
+color: #000116;
+
+}
+.sfh1{
+  
+position: absolute;
+width: 180px;
+height: 38px;
+left: 179px;
+top: 70px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+
+.sfh1{
+  
+position: absolute;
+width: 180px;
+height: 38px;
+left: 179px;
+top: 70px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #000000;
+
+
+}
+.sfh2{
+  
+    position: absolute;
+   
+position: absolute;
+width: 182px;
+height: 38px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+left: 10px;
+top: 270px;
+
+color: #000000;
+    }
+    .sfh3{
+  
+        position: absolute;
+       
+    position: absolute;
+    width: 182px;
+    height: 38px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    /* identical to box height */
+    left: 170px;
+    top: 500px;
+    
+    color: #000000;
+        }
+
+.sft1{
+    position: absolute;
+width: 187px;
+height: 95px;
+
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+left: 170px;
+top: 110px;
+color: #000000;
+}
+
+.sft2{
+    position: absolute;
+    width: 182px;
+    height: 150px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    left: 10px;
+     top: 310px;
+    color: #000000;
+    
+}
+
+.sft3{
+    position: absolute;
+    width: 200px;
+    height: 75px;
+    left: 171px;
+    top: 581px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    
+    color: #000000;
+    
+    
+}
+
+.sft4{
+    position: absolute;
+    width: 337px;
+    height: 50px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    
+    color: #000000;
+    left: 10px;
+     top: 660px;
+    
+    
+}
+.sfk2{
+    position: absolute;
+width: 345px;
+height: 50px;
+left: 20px;
+top: 210px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+
+color: #000000;
+
+}
+.sfb{
+    position: absolute;
+width: 100px;
+height: 32px;
+top:30px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 40px;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+  
+
+
+color: #00011A;
+}
+
+.sfb:hover{
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+
+.sfb1{
+    position: absolute;
+width: 100px;
+height: 32px;
+top:460px;
+left:100px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 40px;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+  
+
+
+color: #00011A;
+}
+
+.sfb1:hover{
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+.sfb2{
+    position: absolute;
+width: 100px;
+height: 32px;
+top:685px;
+left:265px;
+font-family: 'Kalpurush';
+font-style: normal;
+font-weight: 40px;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height */
+  
+
+
+color: #00011A;
+}
+
+.sfb2:hover{
+    border: #C9D3F4;
+    background: rgba(7, 12, 142, 0.46);
+}
+
+
+

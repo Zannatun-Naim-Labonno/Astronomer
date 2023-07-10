@@ -1,0 +1,29 @@
+.sft10{
+    position: absolute;
+    width: 187px;
+    height: 95px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    left: 170px;
+    top: 150px;
+    color: #000000;
+}
+.ff1{
+    position: absolute;
+    width: 324px;
+    height: 527px;
+    left: 20px;
+    top: 230px;
+    
+    font-family: 'Kalpurush';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    
+    color: #000000;
+}
